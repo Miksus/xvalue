@@ -1,7 +1,7 @@
 
 
 import datetime
-from xvalue.price.forward_curve import CompoundCurve, ConstantCurve, SimpleCurve
+from xvalue.price.forward_curve import CompoundCurve, ConstantCurve
 
 
 def test_constant():
